@@ -35,7 +35,7 @@ sites:
   - name: M17-LAT
     url: https://latinos.m17.es/
   - name: M17-M17
-    url: https://refl.m17.link/
+    url: https://ref.m17.link/
   - name: M17-NOR
     url: https://m17.la2k.no/
   - name: M17-POL
@@ -50,7 +50,7 @@ sites:
     url: https://m17-uruguay.ddns.net/m17/
   - name: M17-USA
     url: https://m17-usa.openquad.net/
-    
+
 assignees:
   - kc1awv
 
