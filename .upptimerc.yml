@@ -12,12 +12,12 @@ assignees:
 
 status-website:
   cname: uptime.m17.link
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://m17project.org/images/logo.svg
   name: M17 Uptime
-  introTitle: "**M17 Uptime** is the open-source uptime monitor and status page, powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."
-  introMessage: This is the status page which uses **real-time** data.
+  introTitle: "**M17 Uptime** is powered entirely by [Upptime](https://github.com/upptime/upptime) and GitHub."
+  introMessage: Statuses use **real-time** data, graphs are generated every 6 hours.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: M17 Project
+      href: https://m17project.org
