@@ -1,10 +1,186 @@
 [
   {
-    "name": "M17-M17",
-    "url": "https://ref.m17.link",
-    "slug": "m17-m17",
+    "name": "M17-190",
+    "url": "https://m17.argentina-room.dns-cloud.net/",
+    "slug": "m17-190",
     "status": "up",
     "uptime": "100.00",
-    "time": 184
+    "time": 854
+  },
+  {
+    "name": "M17-214",
+    "url": "https://214.m17.es/",
+    "slug": "m17-214",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 381
+  },
+  {
+    "name": "M17-224",
+    "url": "https://eamaster.xreflector.es/m17/",
+    "slug": "m17-224",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 893
+  },
+  {
+    "name": "M17-ARG",
+    "url": "https://m17arg.ddns.net/",
+    "slug": "m17-arg",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 695
+  },
+  {
+    "name": "M17-AUT",
+    "url": "https://m17-aut.xreflector.net/",
+    "slug": "m17-aut",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 890
+  },
+  {
+    "name": "M17-BEL",
+    "url": "https://on0lg.no-ip.org/m17bel/",
+    "slug": "m17-bel",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 659
+  },
+  {
+    "name": "M17-DEU",
+    "url": "https://m17-deu.xreflector.net/",
+    "slug": "m17-deu",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 652
+  },
+  {
+    "name": "M17-EA7",
+    "url": "https://rcveleta.xreflector.es/",
+    "slug": "m17-ea-7",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 745
+  },
+  {
+    "name": "M17-ESP",
+    "url": "https://m17spa.xreflector.es/",
+    "slug": "m17-esp",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 941
+  },
+  {
+    "name": "M17-GAX",
+    "url": "https://ea4gax.es/M17/",
+    "slug": "m17-gax",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 484
+  },
+  {
+    "name": "M17-GBR",
+    "url": "https://www.roip.network/m17/",
+    "slug": "m17-gbr",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 681
+  },
+  {
+    "name": "M17-ITA",
+    "url": "https://m17ita.hblink.it/",
+    "slug": "m17-ita",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 764
+  },
+  {
+    "name": "M17-KOR",
+    "url": "https://m17-kor.dvham.com/",
+    "slug": "m17-kor",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 727
+  },
+  {
+    "name": "M17-KP4",
+    "url": "https://kp4ca-m17.ddns.net/",
+    "slug": "m17-kp-4",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 204
+  },
+  {
+    "name": "M17-LAT",
+    "url": "https://latinos.m17.es/",
+    "slug": "m17-lat",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 940
+  },
+  {
+    "name": "M17-M17",
+    "url": "https://refl.m17.link/",
+    "slug": "m17-m17",
+    "status": "down",
+    "uptime": "99.42",
+    "time": 123
+  },
+  {
+    "name": "M17-NOR",
+    "url": "https://m17.la2k.no/",
+    "slug": "m17-nor",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 633
+  },
+  {
+    "name": "M17-POL",
+    "url": "https://m17.hblink.network/",
+    "slug": "m17-pol",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 911
+  },
+  {
+    "name": "M17-POR",
+    "url": "https://m17.hamradio.pt/",
+    "slug": "m17-por",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 907
+  },
+  {
+    "name": "M17-SAL",
+    "url": "https://m17sal.m17.es/",
+    "slug": "m17-sal",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 716
+  },
+  {
+    "name": "M17-SPA",
+    "url": "https://hblinkspain.duckdns.org/mrefd/",
+    "slug": "m17-spa",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 613
+  },
+  {
+    "name": "M17-URG",
+    "url": "https://m17-uruguay.ddns.net/m17/",
+    "slug": "m17-urg",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1019
+  },
+  {
+    "name": "M17-USA",
+    "url": "https://m17-usa.openquad.net/",
+    "slug": "m17-usa",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 205
   }
 ]
