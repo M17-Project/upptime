@@ -4,9 +4,53 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: M17-190
+    url: https://m17.argentina-room.dns-cloud.net/
+  - name: M17-214
+    url: https://214.m17.es/
+  - name: M17-224
+    url: https://eamaster.xreflector.es/m17/
+  - name: M17-ARG
+    url: https://m17arg.ddns.net/
+  - name: M17-AUT
+    url: https://m17-aut.xreflector.net/
+  - name: M17-BEL
+    url: https://on0lg.no-ip.org/m17bel/
+  - name: M17-DEU
+    url: https://m17-deu.xreflector.net/
+  - name: M17-EA7
+    url: https://rcveleta.xreflector.es/
+  - name: M17-ESP
+    url: https://m17spa.xreflector.es/
+  - name: M17-GAX
+    url: https://ea4gax.es/M17/
+  - name: M17-GBR
+    url: https://www.roip.network/m17/
+  - name: M17-ITA
+    url: https://m17ita.hblink.it/
+  - name: M17-KOR
+    url: https://m17-kor.dvham.com/
+  - name: M17-KP4
+    url: https://kp4ca-m17.ddns.net/
+  - name: M17-LAT
+    url: https://latinos.m17.es/
   - name: M17-M17
-    url: https://ref.m17.link
-
+    url: https://refl.m17.link/
+  - name: M17-NOR
+    url: https://m17.la2k.no/
+  - name: M17-POL
+    url: https://m17.hblink.network/
+  - name: M17-POR
+    url: https://m17.hamradio.pt/
+  - name: M17-SAL
+    url: https://m17sal.m17.es/
+  - name: M17-SPA
+    url: https://hblinkspain.duckdns.org/mrefd/
+  - name: M17-URG
+    url: https://m17-uruguay.ddns.net/m17/
+  - name: M17-USA
+    url: https://m17-usa.openquad.net/
+    
 assignees:
   - kc1awv
 
