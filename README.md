@@ -17,7 +17,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [M17-M17](https://ref.m17.link) | 🟩 Up | [m17-m17.yml](https://github.com/M17-Project/upptime/commits/master/history/m17-m17.yml) | <img alt="Response time graph" src="./graphs/m17-m17.png" height="20"> 190ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM17-Project%2Fupptime%2Fmaster%2Fapi%2Fm17-m17%2Fuptime.json)
+| [M17-M17](https://ref.m17.link) | 🟩 Up | [m17-m17.yml](https://github.com/M17-Project/upptime/commits/master/history/m17-m17.yml) | <img alt="Response time graph" src="./graphs/m17-m17.png" height="20"> 184ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM17-Project%2Fupptime%2Fmaster%2Fapi%2Fm17-m17%2Fuptime.json)
 <!--end: status pages-->
 
 <!--start: docs-->
