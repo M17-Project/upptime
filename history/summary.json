@@ -1,50 +1,10 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "M17-M17",
+    "url": "https://ref.m17.link",
+    "slug": "m17-m17",
     "status": "up",
     "uptime": "100.00",
-    "time": 84
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 158
-  },
-  {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 539
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 320
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 51
+    "time": 190
   }
 ]
