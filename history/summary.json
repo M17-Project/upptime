@@ -99,9 +99,9 @@
     "name": "M17-KOR",
     "url": "https://m17-kor.dvham.com/",
     "slug": "m17-kor",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 554
+    "status": "down",
+    "uptime": "99.98",
+    "time": 462
   },
   {
     "name": "M17-KP4",
@@ -163,9 +163,9 @@
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 507
+    "status": "up",
+    "uptime": "100.00",
+    "time": 519
   },
   {
     "name": "M17-URG",
