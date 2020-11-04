@@ -99,9 +99,9 @@
     "name": "M17-KOR",
     "url": "https://m17-kor.dvham.com/",
     "slug": "m17-kor",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 670
+    "status": "down",
+    "uptime": "99.98",
+    "time": 502
   },
   {
     "name": "M17-KP4",
