@@ -67,9 +67,9 @@
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1116
+    "status": "down",
+    "uptime": "99.99",
+    "time": 892
   },
   {
     "name": "M17-GAX",
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "down",
-    "uptime": "99.99",
+    "uptime": "83.62",
     "time": 648
   },
   {
