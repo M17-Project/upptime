@@ -115,9 +115,9 @@
     "name": "M17-LAT",
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
-    "status": "down",
-    "uptime": "80.22",
-    "time": 648
+    "status": "up",
+    "uptime": "100.00",
+    "time": 621
   },
   {
     "name": "M17-M17",
