@@ -27,9 +27,9 @@
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 964
+    "status": "down",
+    "uptime": "99.99",
+    "time": 826
   },
   {
     "name": "M17-AUT",
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "down",
-    "uptime": "99.99",
+    "uptime": "99.80",
     "time": 561
   },
   {
