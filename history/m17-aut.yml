@@ -1,7 +1,7 @@
 - url: https://m17-aut.xreflector.net/
-- status: up
-- code: 200
-- responseTime: 1133
-- lastUpdated: 2020-11-06T23:13:42.894Z
+- status: down
+- code: 0
+- responseTime: 0
+- lastUpdated: 2020-11-07T19:24:29.549Z
 - startTime: 2020-11-03T21:50:59.790Z
 - generator: Upptime <https://github.com/upptime/upptime>
