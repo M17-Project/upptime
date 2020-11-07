@@ -28,16 +28,16 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "down",
-    "uptime": "88.50",
+    "uptime": "87.10",
     "time": 826
   },
   {
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 896
+    "status": "up",
+    "uptime": "100.00",
+    "time": 969
   },
   {
     "name": "M17-BEL",
