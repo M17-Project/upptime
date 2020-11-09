@@ -107,9 +107,9 @@
     "name": "M17-KP4",
     "url": "https://kp4ca-m17.ddns.net/",
     "slug": "m17-kp-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 283
+    "time": 252
   },
   {
     "name": "M17-LAT",
