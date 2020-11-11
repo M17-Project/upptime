@@ -35,9 +35,9 @@
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 936
+    "time": 864
   },
   {
     "name": "M17-BEL",
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "down",
-    "uptime": "95.14",
+    "uptime": "87.22",
     "time": 891
   },
   {
