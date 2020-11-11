@@ -171,9 +171,9 @@
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
-    "status": "down",
-    "uptime": "87.15",
-    "time": 891
+    "status": "up",
+    "uptime": "100.00",
+    "time": 869
   },
   {
     "name": "M17-USA",
