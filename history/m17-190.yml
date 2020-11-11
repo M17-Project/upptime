@@ -1,7 +1,7 @@
 - url: https://m17.argentina-room.dns-cloud.net/
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-11T17:43:04.823Z
+- status: up
+- code: 200
+- responseTime: 1014
+- lastUpdated: 2020-11-11T17:51:27.380Z
 - startTime: 2020-11-03T21:50:55.106Z
 - generator: Upptime <https://github.com/upptime/upptime>
