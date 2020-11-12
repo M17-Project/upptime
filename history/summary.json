@@ -83,9 +83,9 @@
     "name": "M17-GBR",
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 782
+    "time": 773
   },
   {
     "name": "M17-ITA",
