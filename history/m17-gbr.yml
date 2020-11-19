@@ -1,7 +1,7 @@
 - url: https://www.roip.network/m17/
-- status: down
+- status: up
 - code: 200
-- responseTime: 622
-- lastUpdated: 2020-11-19T06:50:26.456Z
+- responseTime: 660
+- lastUpdated: 2020-11-19T06:59:28.747Z
 - startTime: 2020-11-03T21:51:06.933Z
 - generator: Upptime <https://github.com/upptime/upptime>
