@@ -1,7 +1,7 @@
 - url: https://rcveleta.xreflector.es/
-- status: down
+- status: up
 - code: 200
-- responseTime: 601
-- lastUpdated: 2020-11-19T06:50:19.157Z
+- responseTime: 622
+- lastUpdated: 2020-11-19T06:59:19.013Z
 - startTime: 2020-11-03T21:51:03.354Z
 - generator: Upptime <https://github.com/upptime/upptime>
