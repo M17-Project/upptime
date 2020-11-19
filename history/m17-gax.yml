@@ -1,7 +1,7 @@
 - url: https://ea4gax.es/M17/
-- status: up
+- status: down
 - code: 200
-- responseTime: 699
-- lastUpdated: 2020-11-18T23:16:17.063Z
+- responseTime: 561
+- lastUpdated: 2020-11-19T06:50:23.998Z
 - startTime: 2020-11-03T21:51:05.953Z
 - generator: Upptime <https://github.com/upptime/upptime>
