@@ -1,7 +1,7 @@
 - url: https://ref.m17.link/
-- status: up
+- status: down
 - code: 200
-- responseTime: 87
-- lastUpdated: 2020-11-18T23:16:21.637Z
+- responseTime: 79
+- lastUpdated: 2020-11-19T06:50:38.766Z
 - startTime: 2020-11-03T20:59:53.362Z
 - generator: Upptime <https://github.com/upptime/upptime>
