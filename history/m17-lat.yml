@@ -1,7 +1,7 @@
 - url: https://latinos.m17.es/
-- status: up
+- status: down
 - code: 200
-- responseTime: 529
-- lastUpdated: 2020-11-18T23:16:21.293Z
+- responseTime: 576
+- lastUpdated: 2020-11-19T06:50:37.225Z
 - startTime: 2020-11-03T21:51:11.112Z
 - generator: Upptime <https://github.com/upptime/upptime>
