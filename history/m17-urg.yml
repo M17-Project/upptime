@@ -1,7 +1,7 @@
 - url: https://m17-uruguay.ddns.net/m17/
-- status: down
+- status: up
 - code: 200
-- responseTime: 727
-- lastUpdated: 2020-11-19T06:50:53.631Z
+- responseTime: 799
+- lastUpdated: 2020-11-19T06:59:57.080Z
 - startTime: 2020-11-03T21:51:20.546Z
 - generator: Upptime <https://github.com/upptime/upptime>
