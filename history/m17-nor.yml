@@ -1,7 +1,7 @@
 - url: https://m17.la2k.no/
-- status: down
+- status: up
 - code: 200
-- responseTime: 501
-- lastUpdated: 2020-11-19T06:50:40.882Z
+- responseTime: 622
+- lastUpdated: 2020-11-19T06:59:46.834Z
 - startTime: 2020-11-03T21:51:14.422Z
 - generator: Upptime <https://github.com/upptime/upptime>
