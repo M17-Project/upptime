@@ -1,7 +1,7 @@
 - url: https://m17-kor.dvham.com/
-- status: up
+- status: down
 - code: 200
-- responseTime: 1079
-- lastUpdated: 2020-11-18T23:16:20.137Z
+- responseTime: 1807
+- lastUpdated: 2020-11-19T06:50:33.468Z
 - startTime: 2020-11-03T21:51:09.251Z
 - generator: Upptime <https://github.com/upptime/upptime>
