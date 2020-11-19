@@ -1,7 +1,7 @@
 - url: https://kp4ca-m17.ddns.net/
-- status: down
+- status: up
 - code: 200
-- responseTime: 109
-- lastUpdated: 2020-11-19T06:50:35.141Z
+- responseTime: 53
+- lastUpdated: 2020-11-19T06:59:38.007Z
 - startTime: 2020-11-03T21:51:10.382Z
 - generator: Upptime <https://github.com/upptime/upptime>
