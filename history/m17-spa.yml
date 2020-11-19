@@ -1,7 +1,7 @@
 - url: https://hblinkspain.duckdns.org/mrefd/
-- status: down
+- status: up
 - code: 200
-- responseTime: 448
-- lastUpdated: 2020-11-19T06:50:50.972Z
+- responseTime: 485
+- lastUpdated: 2020-11-19T06:59:54.936Z
 - startTime: 2020-11-03T21:51:19.497Z
 - generator: Upptime <https://github.com/upptime/upptime>
