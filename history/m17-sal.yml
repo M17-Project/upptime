@@ -1,7 +1,7 @@
 - url: https://m17sal.m17.es/
-- status: down
+- status: up
 - code: 200
-- responseTime: 560
-- lastUpdated: 2020-11-19T06:50:48.772Z
+- responseTime: 645
+- lastUpdated: 2020-11-19T06:59:53.060Z
 - startTime: 2020-11-03T21:51:18.309Z
 - generator: Upptime <https://github.com/upptime/upptime>
