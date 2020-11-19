@@ -1,7 +1,7 @@
 - url: https://on0lg.no-ip.org/m17bel/
-- status: up
+- status: down
 - code: 200
-- responseTime: 426
-- lastUpdated: 2020-11-18T23:16:13.455Z
+- responseTime: 459
+- lastUpdated: 2020-11-19T06:50:14.268Z
 - startTime: 2020-11-03T21:51:01.121Z
 - generator: Upptime <https://github.com/upptime/upptime>
