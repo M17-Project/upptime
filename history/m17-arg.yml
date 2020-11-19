@@ -1,7 +1,7 @@
 - url: https://m17arg.ddns.net/
-- status: up
+- status: down
 - code: 200
-- responseTime: 745
-- lastUpdated: 2020-11-18T23:16:11.641Z
+- responseTime: 722
+- lastUpdated: 2020-11-19T06:50:09.667Z
 - startTime: 2020-11-03T21:50:58.592Z
 - generator: Upptime <https://github.com/upptime/upptime>
