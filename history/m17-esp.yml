@@ -1,7 +1,7 @@
 - url: https://m17spa.xreflector.es/
-- status: up
+- status: down
 - code: 200
-- responseTime: 641
-- lastUpdated: 2020-11-18T23:16:16.101Z
+- responseTime: 702
+- lastUpdated: 2020-11-19T06:50:21.628Z
 - startTime: 2020-11-03T21:51:04.582Z
 - generator: Upptime <https://github.com/upptime/upptime>
