@@ -3,23 +3,23 @@
     "name": "M17-190",
     "url": "https://m17.argentina-room.dns-cloud.net/",
     "slug": "m17-190",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1099
+    "time": 1089
   },
   {
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 447
+    "time": 453
   },
   {
     "name": "M17-224",
     "url": "https://eamaster.xreflector.es/m17/",
     "slug": "m17-224",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 845
   },
@@ -27,160 +27,160 @@
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 733
+    "time": 737
   },
   {
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 808
+    "time": 802
   },
   {
     "name": "M17-BEL",
     "url": "https://on0lg.no-ip.org/m17bel/",
     "slug": "m17-bel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 614
+    "time": 606
   },
   {
     "name": "M17-DEU",
     "url": "https://m17-deu.xreflector.net/",
     "slug": "m17-deu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 682
+    "time": 680
   },
   {
     "name": "M17-EA7",
     "url": "https://rcveleta.xreflector.es/",
     "slug": "m17-ea-7",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 810
+    "time": 801
   },
   {
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 862
+    "time": 854
   },
   {
     "name": "M17-GAX",
     "url": "https://ea4gax.es/M17/",
     "slug": "m17-gax",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 760
+    "time": 758
   },
   {
     "name": "M17-GBR",
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 779
+    "time": 774
   },
   {
     "name": "M17-ITA",
     "url": "https://m17ita.hblink.it/",
     "slug": "m17-ita",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 810
+    "time": 798
   },
   {
     "name": "M17-KOR",
     "url": "https://m17-kor.dvham.com/",
     "slug": "m17-kor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 851
+    "time": 858
   },
   {
     "name": "M17-KP4",
     "url": "https://kp4ca-m17.ddns.net/",
     "slug": "m17-kp-4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 209
+    "time": 201
   },
   {
     "name": "M17-LAT",
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 482
+    "time": 496
   },
   {
     "name": "M17-M17",
     "url": "https://ref.m17.link/",
     "slug": "m17-m17",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 207
+    "time": 199
   },
   {
     "name": "M17-NOR",
     "url": "https://m17.la2k.no/",
     "slug": "m17-nor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 685
+    "time": 681
   },
   {
     "name": "M17-POL",
     "url": "https://m17.hblink.network/",
     "slug": "m17-pol",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 861
+    "time": 848
   },
   {
     "name": "M17-POR",
     "url": "https://m17.hamradio.pt/",
     "slug": "m17-por",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 935
+    "time": 928
   },
   {
     "name": "M17-SAL",
     "url": "https://m17sal.m17.es/",
     "slug": "m17-sal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 756
+    "time": 751
   },
   {
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 642
+    "time": 635
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 820
+    "time": 819
   },
   {
     "name": "M17-USA",
     "url": "https://m17-usa.openquad.net/",
     "slug": "m17-usa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 263
+    "time": 267
   }
 ]
