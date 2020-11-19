@@ -1,7 +1,7 @@
 - url: https://m17-usa.openquad.net/
-- status: down
+- status: up
 - code: 200
-- responseTime: 270
-- lastUpdated: 2020-11-19T06:50:55.703Z
+- responseTime: 328
+- lastUpdated: 2020-11-19T06:59:58.868Z
 - startTime: 2020-11-03T21:51:21.970Z
 - generator: Upptime <https://github.com/upptime/upptime>
