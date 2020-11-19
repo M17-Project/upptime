@@ -1,7 +1,7 @@
 - url: https://eamaster.xreflector.es/m17/
-- status: down
+- status: up
 - code: 200
-- responseTime: 609
-- lastUpdated: 2020-11-19T06:50:06.995Z
+- responseTime: 839
+- lastUpdated: 2020-11-19T06:59:03.434Z
 - startTime: 2020-11-03T21:50:57.281Z
 - generator: Upptime <https://github.com/upptime/upptime>
