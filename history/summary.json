@@ -43,9 +43,9 @@
     "name": "M17-BEL",
     "url": "https://on0lg.no-ip.org/m17bel/",
     "slug": "m17-bel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 600
+    "time": 572
   },
   {
     "name": "M17-DEU",
