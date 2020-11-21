@@ -163,9 +163,9 @@
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 603
+    "time": 597
   },
   {
     "name": "M17-URG",
