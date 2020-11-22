@@ -5,7 +5,7 @@
     "slug": "m17-190",
     "status": "up",
     "uptime": "100.00",
-    "time": 1064
+    "time": 1052
   },
   {
     "name": "M17-214",
@@ -13,7 +13,7 @@
     "slug": "m17-214",
     "status": "up",
     "uptime": "100.00",
-    "time": 1697
+    "time": 1654
   },
   {
     "name": "M17-224",
@@ -21,7 +21,7 @@
     "slug": "m17-224",
     "status": "up",
     "uptime": "100.00",
-    "time": 830
+    "time": 824
   },
   {
     "name": "M17-ARG",
@@ -29,7 +29,7 @@
     "slug": "m17-arg",
     "status": "up",
     "uptime": "100.00",
-    "time": 793
+    "time": 801
   },
   {
     "name": "M17-AUT",
@@ -37,7 +37,7 @@
     "slug": "m17-aut",
     "status": "up",
     "uptime": "100.00",
-    "time": 786
+    "time": 781
   },
   {
     "name": "M17-BEL",
@@ -45,7 +45,7 @@
     "slug": "m17-bel",
     "status": "up",
     "uptime": "100.00",
-    "time": 1077
+    "time": 1050
   },
   {
     "name": "M17-DEU",
@@ -53,7 +53,7 @@
     "slug": "m17-deu",
     "status": "up",
     "uptime": "100.00",
-    "time": 676
+    "time": 668
   },
   {
     "name": "M17-EA7",
@@ -61,7 +61,7 @@
     "slug": "m17-ea-7",
     "status": "up",
     "uptime": "100.00",
-    "time": 790
+    "time": 781
   },
   {
     "name": "M17-ESP",
@@ -69,7 +69,7 @@
     "slug": "m17-esp",
     "status": "up",
     "uptime": "100.00",
-    "time": 842
+    "time": 832
   },
   {
     "name": "M17-GAX",
@@ -77,7 +77,7 @@
     "slug": "m17-gax",
     "status": "up",
     "uptime": "100.00",
-    "time": 747
+    "time": 734
   },
   {
     "name": "M17-GBR",
@@ -85,7 +85,7 @@
     "slug": "m17-gbr",
     "status": "up",
     "uptime": "100.00",
-    "time": 768
+    "time": 762
   },
   {
     "name": "M17-ITA",
@@ -93,7 +93,7 @@
     "slug": "m17-ita",
     "status": "up",
     "uptime": "100.00",
-    "time": 807
+    "time": 802
   },
   {
     "name": "M17-KOR",
@@ -101,7 +101,7 @@
     "slug": "m17-kor",
     "status": "up",
     "uptime": "100.00",
-    "time": 891
+    "time": 895
   },
   {
     "name": "M17-KP4",
@@ -109,7 +109,7 @@
     "slug": "m17-kp-4",
     "status": "up",
     "uptime": "100.00",
-    "time": 193
+    "time": 188
   },
   {
     "name": "M17-LAT",
@@ -125,7 +125,7 @@
     "slug": "m17-m17",
     "status": "up",
     "uptime": "100.00",
-    "time": 189
+    "time": 185
   },
   {
     "name": "M17-NOR",
@@ -133,7 +133,7 @@
     "slug": "m17-nor",
     "status": "up",
     "uptime": "100.00",
-    "time": 672
+    "time": 668
   },
   {
     "name": "M17-POL",
@@ -141,7 +141,7 @@
     "slug": "m17-pol",
     "status": "up",
     "uptime": "100.00",
-    "time": 825
+    "time": 817
   },
   {
     "name": "M17-POR",
@@ -149,7 +149,7 @@
     "slug": "m17-por",
     "status": "up",
     "uptime": "100.00",
-    "time": 912
+    "time": 900
   },
   {
     "name": "M17-SAL",
@@ -157,7 +157,7 @@
     "slug": "m17-sal",
     "status": "up",
     "uptime": "100.00",
-    "time": 736
+    "time": 729
   },
   {
     "name": "M17-SPA",
@@ -165,7 +165,7 @@
     "slug": "m17-spa",
     "status": "up",
     "uptime": "100.00",
-    "time": 597
+    "time": 594
   },
   {
     "name": "M17-URG",
@@ -173,7 +173,7 @@
     "slug": "m17-urg",
     "status": "up",
     "uptime": "100.00",
-    "time": 806
+    "time": 800
   },
   {
     "name": "M17-USA",
@@ -181,6 +181,6 @@
     "slug": "m17-usa",
     "status": "up",
     "uptime": "100.00",
-    "time": 255
+    "time": 250
   }
 ]
