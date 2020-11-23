@@ -11,9 +11,9 @@
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "down",
-    "uptime": "99.86%",
-    "time": 1559
+    "status": "up",
+    "uptime": "99.83%",
+    "time": 1595
   },
   {
     "name": "M17-224",
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "time": 425
   },
   {
