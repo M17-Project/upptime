@@ -84,7 +84,7 @@
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "time": 767
   },
   {
@@ -163,9 +163,9 @@
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "time": 823
+    "time": 799
   },
   {
     "name": "M17-URG",
