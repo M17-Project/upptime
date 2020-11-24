@@ -163,16 +163,16 @@
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "down",
-    "uptime": "99.86%",
-    "time": 580
+    "status": "up",
+    "uptime": "99.83%",
+    "time": 737
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "94.90%",
+    "uptime": "94.91%",
     "time": 803
   },
   {
