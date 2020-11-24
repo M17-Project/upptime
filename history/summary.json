@@ -11,9 +11,9 @@
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "time": 1561
+    "time": 1515
   },
   {
     "name": "M17-224",
@@ -28,7 +28,7 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "96.73%",
+    "uptime": "96.75%",
     "time": 809
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "time": 427
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "94.97%",
+    "uptime": "94.99%",
     "time": 803
   },
   {
