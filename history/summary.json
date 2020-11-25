@@ -3,9 +3,9 @@
     "name": "M17-190",
     "url": "https://m17.argentina-room.dns-cloud.net/",
     "slug": "m17-190",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 1029
+    "time": 994
   },
   {
     "name": "M17-214",
@@ -28,7 +28,7 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.82%",
     "time": 807
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "time": 776
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://m17-kor.dvham.com/",
     "slug": "m17-kor",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "time": 912
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.94%",
     "time": 432
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "time": 786
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.06%",
+    "uptime": "95.10%",
     "time": 799
   },
   {
