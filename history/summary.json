@@ -5,7 +5,7 @@
     "slug": "m17-190",
     "status": "up",
     "uptime": "99.94%",
-    "time": 1038
+    "time": 1029
   },
   {
     "name": "M17-214",
@@ -13,7 +13,7 @@
     "slug": "m17-214",
     "status": "up",
     "uptime": "99.70%",
-    "time": 1922
+    "time": 1884
   },
   {
     "name": "M17-224",
@@ -21,7 +21,7 @@
     "slug": "m17-224",
     "status": "up",
     "uptime": "99.97%",
-    "time": 831
+    "time": 822
   },
   {
     "name": "M17-ARG",
@@ -29,7 +29,7 @@
     "slug": "m17-arg",
     "status": "up",
     "uptime": "96.79%",
-    "time": 809
+    "time": 807
   },
   {
     "name": "M17-AUT",
@@ -37,7 +37,7 @@
     "slug": "m17-aut",
     "status": "up",
     "uptime": "99.64%",
-    "time": 783
+    "time": 776
   },
   {
     "name": "M17-BEL",
@@ -45,7 +45,7 @@
     "slug": "m17-bel",
     "status": "up",
     "uptime": "99.91%",
-    "time": 1015
+    "time": 995
   },
   {
     "name": "M17-DEU",
@@ -53,7 +53,7 @@
     "slug": "m17-deu",
     "status": "up",
     "uptime": "99.97%",
-    "time": 672
+    "time": 669
   },
   {
     "name": "M17-EA7",
@@ -61,7 +61,7 @@
     "slug": "m17-ea-7",
     "status": "up",
     "uptime": "99.97%",
-    "time": 789
+    "time": 795
   },
   {
     "name": "M17-ESP",
@@ -69,7 +69,7 @@
     "slug": "m17-esp",
     "status": "up",
     "uptime": "99.65%",
-    "time": 831
+    "time": 825
   },
   {
     "name": "M17-GAX",
@@ -77,15 +77,15 @@
     "slug": "m17-gax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 744
+    "time": 740
   },
   {
     "name": "M17-GBR",
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.47%",
-    "time": 767
+    "uptime": "99.48%",
+    "time": 762
   },
   {
     "name": "M17-ITA",
@@ -93,7 +93,7 @@
     "slug": "m17-ita",
     "status": "up",
     "uptime": "99.97%",
-    "time": 806
+    "time": 799
   },
   {
     "name": "M17-KOR",
@@ -101,7 +101,7 @@
     "slug": "m17-kor",
     "status": "up",
     "uptime": "99.91%",
-    "time": 900
+    "time": 912
   },
   {
     "name": "M17-KP4",
@@ -109,15 +109,15 @@
     "slug": "m17-kp-4",
     "status": "up",
     "uptime": "99.91%",
-    "time": 190
+    "time": 187
   },
   {
     "name": "M17-LAT",
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "97.91%",
-    "time": 427
+    "uptime": "97.92%",
+    "time": 432
   },
   {
     "name": "M17-M17",
@@ -125,7 +125,7 @@
     "slug": "m17-m17",
     "status": "up",
     "uptime": "99.95%",
-    "time": 188
+    "time": 184
   },
   {
     "name": "M17-NOR",
@@ -133,7 +133,7 @@
     "slug": "m17-nor",
     "status": "up",
     "uptime": "99.97%",
-    "time": 669
+    "time": 670
   },
   {
     "name": "M17-POL",
@@ -141,7 +141,7 @@
     "slug": "m17-pol",
     "status": "up",
     "uptime": "99.97%",
-    "time": 824
+    "time": 818
   },
   {
     "name": "M17-POR",
@@ -149,7 +149,7 @@
     "slug": "m17-por",
     "status": "up",
     "uptime": "99.97%",
-    "time": 905
+    "time": 903
   },
   {
     "name": "M17-SAL",
@@ -157,7 +157,7 @@
     "slug": "m17-sal",
     "status": "up",
     "uptime": "99.97%",
-    "time": 731
+    "time": 727
   },
   {
     "name": "M17-SPA",
@@ -165,15 +165,15 @@
     "slug": "m17-spa",
     "status": "up",
     "uptime": "99.74%",
-    "time": 793
+    "time": 786
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.05%",
-    "time": 803
+    "uptime": "95.06%",
+    "time": 799
   },
   {
     "name": "M17-USA",
@@ -181,6 +181,6 @@
     "slug": "m17-usa",
     "status": "up",
     "uptime": "99.97%",
-    "time": 252
+    "time": 247
   }
 ]
