@@ -12,7 +12,7 @@
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "time": 1849
   },
   {
@@ -27,16 +27,16 @@
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
-    "status": "up",
-    "uptime": "96.94%",
-    "time": 811
+    "status": "down",
+    "uptime": "97.01%",
+    "time": 784
   },
   {
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "time": 771
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://on0lg.no-ip.org/m17bel/",
     "slug": "m17-bel",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "time": 979
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "time": 819
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "time": 762
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.06%",
     "time": 437
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://ref.m17.link/",
     "slug": "m17-m17",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "time": 180
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.39%",
     "time": 796
   },
   {
