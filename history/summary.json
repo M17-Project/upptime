@@ -4,16 +4,16 @@
     "url": "https://m17.argentina-room.dns-cloud.net/",
     "slug": "m17-190",
     "status": "up",
-    "uptime": "99.80%",
-    "time": 985
+    "uptime": "99.81%",
+    "time": 979
   },
   {
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "up",
-    "uptime": "99.70%",
-    "time": 1884
+    "uptime": "99.71%",
+    "time": 1849
   },
   {
     "name": "M17-224",
@@ -21,23 +21,23 @@
     "slug": "m17-224",
     "status": "up",
     "uptime": "99.97%",
-    "time": 822
+    "time": 818
   },
   {
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "96.83%",
-    "time": 807
+    "uptime": "96.94%",
+    "time": 811
   },
   {
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
     "status": "up",
-    "uptime": "99.65%",
-    "time": 776
+    "uptime": "99.66%",
+    "time": 771
   },
   {
     "name": "M17-BEL",
@@ -45,7 +45,7 @@
     "slug": "m17-bel",
     "status": "up",
     "uptime": "99.91%",
-    "time": 995
+    "time": 979
   },
   {
     "name": "M17-DEU",
@@ -53,7 +53,7 @@
     "slug": "m17-deu",
     "status": "up",
     "uptime": "99.97%",
-    "time": 669
+    "time": 663
   },
   {
     "name": "M17-EA7",
@@ -61,15 +61,15 @@
     "slug": "m17-ea-7",
     "status": "up",
     "uptime": "99.97%",
-    "time": 795
+    "time": 792
   },
   {
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "up",
-    "uptime": "99.65%",
-    "time": 825
+    "uptime": "99.66%",
+    "time": 819
   },
   {
     "name": "M17-GAX",
@@ -77,14 +77,14 @@
     "slug": "m17-gax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 740
+    "time": 731
   },
   {
     "name": "M17-GBR",
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.50%",
     "time": 762
   },
   {
@@ -93,7 +93,7 @@
     "slug": "m17-ita",
     "status": "up",
     "uptime": "99.97%",
-    "time": 799
+    "time": 791
   },
   {
     "name": "M17-KOR",
@@ -101,23 +101,23 @@
     "slug": "m17-kor",
     "status": "up",
     "uptime": "99.92%",
-    "time": 912
+    "time": 918
   },
   {
     "name": "M17-KP4",
     "url": "https://kp4ca-m17.ddns.net/",
     "slug": "m17-kp-4",
     "status": "up",
-    "uptime": "99.91%",
-    "time": 187
+    "uptime": "99.92%",
+    "time": 184
   },
   {
     "name": "M17-LAT",
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "97.94%",
-    "time": 432
+    "uptime": "98.01%",
+    "time": 437
   },
   {
     "name": "M17-M17",
@@ -125,7 +125,7 @@
     "slug": "m17-m17",
     "status": "up",
     "uptime": "99.95%",
-    "time": 184
+    "time": 180
   },
   {
     "name": "M17-NOR",
@@ -133,7 +133,7 @@
     "slug": "m17-nor",
     "status": "up",
     "uptime": "99.97%",
-    "time": 670
+    "time": 667
   },
   {
     "name": "M17-POL",
@@ -141,7 +141,7 @@
     "slug": "m17-pol",
     "status": "up",
     "uptime": "99.97%",
-    "time": 818
+    "time": 816
   },
   {
     "name": "M17-POR",
@@ -149,7 +149,7 @@
     "slug": "m17-por",
     "status": "up",
     "uptime": "99.97%",
-    "time": 903
+    "time": 905
   },
   {
     "name": "M17-SAL",
@@ -157,23 +157,23 @@
     "slug": "m17-sal",
     "status": "up",
     "uptime": "99.97%",
-    "time": 727
+    "time": 724
   },
   {
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
     "status": "up",
-    "uptime": "99.75%",
-    "time": 786
+    "uptime": "99.76%",
+    "time": 804
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.11%",
-    "time": 799
+    "uptime": "95.28%",
+    "time": 796
   },
   {
     "name": "M17-USA",
@@ -181,6 +181,6 @@
     "slug": "m17-usa",
     "status": "up",
     "uptime": "99.97%",
-    "time": 247
+    "time": 241
   }
 ]
