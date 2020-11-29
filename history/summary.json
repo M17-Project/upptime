@@ -28,7 +28,7 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.23%",
     "time": 782
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://on0lg.no-ip.org/m17bel/",
     "slug": "m17-bel",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "time": 938
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://ea4gax.es/M17/",
     "slug": "m17-gax",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 718
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://m17ita.hblink.it/",
     "slug": "m17-ita",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 781
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "time": 443
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://m17.hblink.network/",
     "slug": "m17-pol",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 805
   },
   {
@@ -148,7 +148,7 @@
     "url": "https://m17.hamradio.pt/",
     "slug": "m17-por",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 883
   },
   {
@@ -156,23 +156,23 @@
     "url": "https://m17sal.m17.es/",
     "slug": "m17-sal",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 709
   },
   {
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "time": 785
+    "time": 766
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.87%",
     "time": 788
   },
   {
@@ -180,7 +180,7 @@
     "url": "https://m17-usa.openquad.net/",
     "slug": "m17-usa",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 228
   }
 ]
