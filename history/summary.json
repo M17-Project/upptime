@@ -4,16 +4,16 @@
     "url": "https://m17.argentina-room.dns-cloud.net/",
     "slug": "m17-190",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "time": 986
   },
   {
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "time": 1775
+    "time": 1736
   },
   {
     "name": "M17-224",
