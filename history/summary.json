@@ -11,9 +11,9 @@
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "time": 1749
+    "time": 1709
   },
   {
     "name": "M17-224",
@@ -28,7 +28,7 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.30%",
     "time": 782
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "time": 762
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "time": 802
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "time": 754
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.31%",
     "time": 443
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://m17.la2k.no/",
     "slug": "m17-nor",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "time": 660
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "time": 758
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.98%",
     "time": 788
   },
   {
