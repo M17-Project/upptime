@@ -12,7 +12,7 @@
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "down",
-    "uptime": "97.68%",
+    "uptime": "97.64%",
     "time": 1698
   },
   {
@@ -67,9 +67,9 @@
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
-    "status": "down",
-    "uptime": "99.72%",
-    "time": 776
+    "status": "up",
+    "uptime": "99.68%",
+    "time": 771
   },
   {
     "name": "M17-GAX",
