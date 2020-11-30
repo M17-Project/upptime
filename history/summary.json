@@ -3,9 +3,9 @@
     "name": "M17-190",
     "url": "https://m17.argentina-room.dns-cloud.net/",
     "slug": "m17-190",
-    "status": "down",
-    "uptime": "99.84%",
-    "time": 981
+    "status": "up",
+    "uptime": "99.82%",
+    "time": 1000
   },
   {
     "name": "M17-214",
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "97.55%",
+    "uptime": "97.53%",
     "time": 730
   },
   {
