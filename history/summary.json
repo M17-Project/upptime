@@ -12,7 +12,7 @@
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "down",
-    "uptime": "97.64%",
+    "uptime": "97.61%",
     "time": 1698
   },
   {
@@ -59,17 +59,17 @@
     "name": "M17-EA7",
     "url": "https://rcveleta.xreflector.es/",
     "slug": "m17-ea-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 774
+    "time": 750
   },
   {
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "time": 771
+    "time": 750
   },
   {
     "name": "M17-GAX",
