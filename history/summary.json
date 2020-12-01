@@ -12,7 +12,7 @@
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.29%",
     "time": 1686
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "97.10%",
+    "uptime": "96.95%",
     "time": 730
   },
   {
@@ -163,16 +163,16 @@
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "time": 749
+    "time": 732
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.17%",
+    "uptime": "96.18%",
     "time": 781
   },
   {
