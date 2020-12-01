@@ -27,9 +27,9 @@
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
-    "status": "down",
-    "uptime": "97.48%",
-    "time": 797
+    "status": "up",
+    "uptime": "97.45%",
+    "time": 800
   },
   {
     "name": "M17-AUT",
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "94.96%",
+    "uptime": "94.93%",
     "time": 730
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "time": 781
   },
   {
