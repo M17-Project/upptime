@@ -28,7 +28,7 @@
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "time": 819
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "97.15%",
+    "uptime": "97.10%",
     "time": 730
   },
   {
@@ -147,9 +147,9 @@
     "name": "M17-POR",
     "url": "https://m17.hamradio.pt/",
     "slug": "m17-por",
-    "status": "down",
-    "uptime": "99.98%",
-    "time": 849
+    "status": "up",
+    "uptime": "99.92%",
+    "time": 843
   },
   {
     "name": "M17-SAL",
