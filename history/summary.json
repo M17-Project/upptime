@@ -12,7 +12,7 @@
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "up",
-    "uptime": "96.27%",
+    "uptime": "96.28%",
     "time": 1686
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "97.48%",
+    "uptime": "97.15%",
     "time": 730
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "time": 444
   },
   {
@@ -147,9 +147,9 @@
     "name": "M17-POR",
     "url": "https://m17.hamradio.pt/",
     "slug": "m17-por",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 875
+    "time": 849
   },
   {
     "name": "M17-SAL",
@@ -172,7 +172,7 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.15%",
+    "uptime": "96.17%",
     "time": 781
   },
   {
