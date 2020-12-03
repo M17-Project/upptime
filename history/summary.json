@@ -5,15 +5,31 @@
     "slug": "m17-190",
     "status": "up",
     "uptime": "99.83%",
-    "time": 1001
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1075,
+    "timeDay": 745,
+    "timeWeek": 1178,
+    "timeMonth": 1075,
+    "timeYear": 1075
   },
   {
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
     "status": "up",
-    "uptime": "96.40%",
-    "time": 1662
+    "uptime": "96.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.46%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "96.52%",
+    "time": 1999,
+    "timeDay": 499,
+    "timeWeek": 1230,
+    "timeMonth": 1999,
+    "timeYear": 1999
   },
   {
     "name": "M17-224",
@@ -21,31 +37,63 @@
     "slug": "m17-224",
     "status": "up",
     "uptime": "99.98%",
-    "time": 777
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 774,
+    "timeDay": 668,
+    "timeWeek": 603,
+    "timeMonth": 774,
+    "timeYear": 774
   },
   {
     "name": "M17-ARG",
     "url": "https://m17arg.ddns.net/",
     "slug": "m17-arg",
     "status": "up",
-    "uptime": "97.47%",
-    "time": 805
+    "uptime": "97.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
+    "time": 894,
+    "timeDay": 747,
+    "timeWeek": 960,
+    "timeMonth": 894,
+    "timeYear": 894
   },
   {
     "name": "M17-AUT",
     "url": "https://m17-aut.xreflector.net/",
     "slug": "m17-aut",
     "status": "up",
-    "uptime": "99.73%",
-    "time": 763
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 803,
+    "timeDay": 629,
+    "timeWeek": 712,
+    "timeMonth": 803,
+    "timeYear": 803
   },
   {
     "name": "M17-BEL",
     "url": "https://on0lg.no-ip.org/m17bel/",
     "slug": "m17-bel",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 914
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 929,
+    "timeDay": 517,
+    "timeWeek": 588,
+    "timeMonth": 929,
+    "timeYear": 929
   },
   {
     "name": "M17-DEU",
@@ -53,7 +101,15 @@
     "slug": "m17-deu",
     "status": "up",
     "uptime": "99.98%",
-    "time": 653
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 648,
+    "timeDay": 455,
+    "timeWeek": 588,
+    "timeMonth": 648,
+    "timeYear": 648
   },
   {
     "name": "M17-EA7",
@@ -61,15 +117,31 @@
     "slug": "m17-ea-7",
     "status": "up",
     "uptime": "99.91%",
-    "time": 757
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 772,
+    "timeDay": 509,
+    "timeWeek": 706,
+    "timeMonth": 772,
+    "timeYear": 772
   },
   {
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "94.01%",
-    "time": 710
+    "uptime": "90.76%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "62.67%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "90.76%",
+    "time": 819,
+    "timeDay": 0,
+    "timeWeek": 650,
+    "timeMonth": 819,
+    "timeYear": 819
   },
   {
     "name": "M17-GAX",
@@ -77,15 +149,31 @@
     "slug": "m17-gax",
     "status": "up",
     "uptime": "99.98%",
-    "time": 723
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 718,
+    "timeDay": 537,
+    "timeWeek": 664,
+    "timeMonth": 718,
+    "timeYear": 718
   },
   {
     "name": "M17-GBR",
     "url": "https://www.roip.network/m17/",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "99.61%",
-    "time": 756
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 777,
+    "timeDay": 710,
+    "timeWeek": 727,
+    "timeMonth": 777,
+    "timeYear": 777
   },
   {
     "name": "M17-ITA",
@@ -93,7 +181,15 @@
     "slug": "m17-ita",
     "status": "up",
     "uptime": "99.98%",
-    "time": 780
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 776,
+    "timeDay": 619,
+    "timeWeek": 713,
+    "timeMonth": 776,
+    "timeYear": 776
   },
   {
     "name": "M17-KOR",
@@ -101,31 +197,63 @@
     "slug": "m17-kor",
     "status": "up",
     "uptime": "99.94%",
-    "time": 978
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1033,
+    "timeDay": 1009,
+    "timeWeek": 1246,
+    "timeMonth": 1033,
+    "timeYear": 1033
   },
   {
     "name": "M17-KP4",
     "url": "https://kp4ca-m17.ddns.net/",
     "slug": "m17-kp-4",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 179
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 182,
+    "timeDay": 73,
+    "timeWeek": 143,
+    "timeMonth": 182,
+    "timeYear": 182
   },
   {
     "name": "M17-LAT",
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.44%",
-    "time": 442
+    "uptime": "98.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
+    "time": 547,
+    "timeDay": 572,
+    "timeWeek": 495,
+    "timeMonth": 547,
+    "timeYear": 547
   },
   {
     "name": "M17-M17",
     "url": "https://ref.m17.link/",
     "slug": "m17-m17",
     "status": "up",
-    "uptime": "99.96%",
-    "time": 171
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 174,
+    "timeDay": 98,
+    "timeWeek": 122,
+    "timeMonth": 174,
+    "timeYear": 174
   },
   {
     "name": "M17-NOR",
@@ -133,7 +261,15 @@
     "slug": "m17-nor",
     "status": "up",
     "uptime": "99.98%",
-    "time": 662
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 661,
+    "timeDay": 603,
+    "timeWeek": 634,
+    "timeMonth": 661,
+    "timeYear": 661
   },
   {
     "name": "M17-POL",
@@ -141,7 +277,15 @@
     "slug": "m17-pol",
     "status": "up",
     "uptime": "99.98%",
-    "time": 808
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 805,
+    "timeDay": 674,
+    "timeWeek": 760,
+    "timeMonth": 805,
+    "timeYear": 805
   },
   {
     "name": "M17-POR",
@@ -149,7 +293,15 @@
     "slug": "m17-por",
     "status": "up",
     "uptime": "99.93%",
-    "time": 847
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 868,
+    "timeDay": 725,
+    "timeWeek": 744,
+    "timeMonth": 868,
+    "timeYear": 868
   },
   {
     "name": "M17-SAL",
@@ -157,23 +309,47 @@
     "slug": "m17-sal",
     "status": "up",
     "uptime": "99.98%",
-    "time": 699
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 694,
+    "timeDay": 520,
+    "timeWeek": 578,
+    "timeMonth": 694,
+    "timeYear": 694
   },
   {
     "name": "M17-SPA",
     "url": "https://hblinkspain.duckdns.org/mrefd/",
     "slug": "m17-spa",
     "status": "up",
-    "uptime": "99.77%",
-    "time": 727
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 848,
+    "timeDay": 551,
+    "timeWeek": 555,
+    "timeMonth": 848,
+    "timeYear": 848
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.29%",
-    "time": 785
+    "uptime": "96.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.42%",
+    "time": 829,
+    "timeDay": 692,
+    "timeWeek": 727,
+    "timeMonth": 829,
+    "timeYear": 829
   },
   {
     "name": "M17-USA",
@@ -181,6 +357,14 @@
     "slug": "m17-usa",
     "status": "up",
     "uptime": "99.98%",
-    "time": 226
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 224,
+    "timeDay": 140,
+    "timeWeek": 159,
+    "timeMonth": 224,
+    "timeYear": 224
   }
 ]
