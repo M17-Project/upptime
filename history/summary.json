@@ -12,23 +12,23 @@
     "time": 1075,
     "timeDay": 745,
     "timeWeek": 1178,
-    "timeMonth": 1075,
+    "timeMonth": 1005,
     "timeYear": 1075
   },
   {
     "name": "M17-214",
     "url": "https://214.m17.es/",
     "slug": "m17-214",
-    "status": "up",
-    "uptime": "96.62%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.63%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "86.46%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "96.62%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.63%",
     "time": 1999,
     "timeDay": 499,
     "timeWeek": 1230,
-    "timeMonth": 1999,
+    "timeMonth": 2080,
     "timeYear": 1999
   },
   {
@@ -44,7 +44,7 @@
     "time": 774,
     "timeDay": 668,
     "timeWeek": 603,
-    "timeMonth": 774,
+    "timeMonth": 770,
     "timeYear": 774
   },
   {
@@ -60,7 +60,7 @@
     "time": 894,
     "timeDay": 747,
     "timeWeek": 984,
-    "timeMonth": 894,
+    "timeMonth": 897,
     "timeYear": 894
   },
   {
@@ -76,7 +76,7 @@
     "time": 803,
     "timeDay": 629,
     "timeWeek": 712,
-    "timeMonth": 803,
+    "timeMonth": 798,
     "timeYear": 803
   },
   {
@@ -92,7 +92,7 @@
     "time": 929,
     "timeDay": 517,
     "timeWeek": 588,
-    "timeMonth": 929,
+    "timeMonth": 946,
     "timeYear": 929
   },
   {
@@ -124,7 +124,7 @@
     "time": 772,
     "timeDay": 509,
     "timeWeek": 706,
-    "timeMonth": 772,
+    "timeMonth": 773,
     "timeYear": 772
   },
   {
@@ -132,15 +132,15 @@
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "88.29%",
+    "uptime": "88.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.04%",
-    "uptimeMonth": "88.29%",
-    "uptimeYear": "88.29%",
+    "uptimeWeek": "49.75%",
+    "uptimeMonth": "88.03%",
+    "uptimeYear": "88.03%",
     "time": 819,
     "timeDay": 0,
     "timeWeek": 650,
-    "timeMonth": 819,
+    "timeMonth": 811,
     "timeYear": 819
   },
   {
@@ -156,7 +156,7 @@
     "time": 718,
     "timeDay": 537,
     "timeWeek": 664,
-    "timeMonth": 718,
+    "timeMonth": 733,
     "timeYear": 718
   },
   {
@@ -172,7 +172,7 @@
     "time": 774,
     "timeDay": 688,
     "timeWeek": 719,
-    "timeMonth": 774,
+    "timeMonth": 779,
     "timeYear": 774
   },
   {
@@ -188,7 +188,7 @@
     "time": 776,
     "timeDay": 619,
     "timeWeek": 713,
-    "timeMonth": 776,
+    "timeMonth": 777,
     "timeYear": 776
   },
   {
@@ -204,7 +204,7 @@
     "time": 1033,
     "timeDay": 1009,
     "timeWeek": 1246,
-    "timeMonth": 1033,
+    "timeMonth": 1052,
     "timeYear": 1033
   },
   {
@@ -220,7 +220,7 @@
     "time": 182,
     "timeDay": 73,
     "timeWeek": 143,
-    "timeMonth": 182,
+    "timeMonth": 181,
     "timeYear": 182
   },
   {
@@ -228,15 +228,15 @@
     "url": "https://latinos.m17.es/",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 547,
     "timeDay": 572,
     "timeWeek": 495,
-    "timeMonth": 547,
+    "timeMonth": 517,
     "timeYear": 547
   },
   {
@@ -247,12 +247,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 174,
     "timeDay": 98,
     "timeWeek": 122,
-    "timeMonth": 174,
+    "timeMonth": 172,
     "timeYear": 174
   },
   {
@@ -268,7 +268,7 @@
     "time": 661,
     "timeDay": 603,
     "timeWeek": 634,
-    "timeMonth": 661,
+    "timeMonth": 660,
     "timeYear": 661
   },
   {
@@ -284,7 +284,7 @@
     "time": 805,
     "timeDay": 674,
     "timeWeek": 760,
-    "timeMonth": 805,
+    "timeMonth": 798,
     "timeYear": 805
   },
   {
@@ -300,7 +300,7 @@
     "time": 868,
     "timeDay": 725,
     "timeWeek": 744,
-    "timeMonth": 868,
+    "timeMonth": 865,
     "timeYear": 868
   },
   {
@@ -316,7 +316,7 @@
     "time": 694,
     "timeDay": 520,
     "timeWeek": 578,
-    "timeMonth": 694,
+    "timeMonth": 693,
     "timeYear": 694
   },
   {
@@ -332,7 +332,7 @@
     "time": 848,
     "timeDay": 551,
     "timeWeek": 555,
-    "timeMonth": 848,
+    "timeMonth": 858,
     "timeYear": 848
   },
   {
@@ -340,15 +340,15 @@
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "96.52%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
     "time": 829,
     "timeDay": 692,
     "timeWeek": 727,
-    "timeMonth": 829,
+    "timeMonth": 817,
     "timeYear": 829
   },
   {
@@ -364,7 +364,7 @@
     "time": 224,
     "timeDay": 140,
     "timeWeek": 159,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 224
   }
 ]
