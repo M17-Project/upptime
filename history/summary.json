@@ -9,11 +9,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 1075,
-    "timeDay": 745,
-    "timeWeek": 1178,
+    "time": 1074,
+    "timeDay": 1005,
+    "timeWeek": 1203,
     "timeMonth": 1005,
-    "timeYear": 1075
+    "timeYear": 1074
   },
   {
     "name": "M17-214",
@@ -25,11 +25,11 @@
     "uptimeWeek": "86.14%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "96.56%",
-    "time": 2093,
-    "timeDay": 3214,
-    "timeWeek": 1752,
-    "timeMonth": 2176,
-    "timeYear": 2093
+    "time": 2053,
+    "timeDay": 3154,
+    "timeWeek": 1748,
+    "timeMonth": 2177,
+    "timeYear": 2053
   },
   {
     "name": "M17-224",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 774,
-    "timeDay": 668,
-    "timeWeek": 603,
-    "timeMonth": 770,
-    "timeYear": 774
+    "time": 779,
+    "timeDay": 953,
+    "timeWeek": 663,
+    "timeMonth": 769,
+    "timeYear": 779
   },
   {
     "name": "M17-ARG",
@@ -57,11 +57,11 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "97.64%",
     "uptimeYear": "97.64%",
-    "time": 894,
-    "timeDay": 747,
-    "timeWeek": 984,
-    "timeMonth": 897,
-    "timeYear": 894
+    "time": 900,
+    "timeDay": 1151,
+    "timeWeek": 1035,
+    "timeMonth": 908,
+    "timeYear": 900
   },
   {
     "name": "M17-AUT",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 803,
-    "timeDay": 629,
-    "timeWeek": 712,
-    "timeMonth": 798,
-    "timeYear": 803
+    "time": 806,
+    "timeDay": 936,
+    "timeWeek": 736,
+    "timeMonth": 787,
+    "timeYear": 806
   },
   {
     "name": "M17-BEL",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 929,
-    "timeDay": 517,
-    "timeWeek": 588,
-    "timeMonth": 946,
-    "timeYear": 929
+    "time": 926,
+    "timeDay": 834,
+    "timeWeek": 631,
+    "timeMonth": 947,
+    "timeYear": 926
   },
   {
     "name": "M17-DEU",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 648,
-    "timeDay": 455,
-    "timeWeek": 588,
+    "time": 653,
+    "timeDay": 834,
+    "timeWeek": 616,
     "timeMonth": 648,
-    "timeYear": 648
+    "timeYear": 653
   },
   {
     "name": "M17-EA7",
@@ -121,26 +121,26 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 772,
-    "timeDay": 509,
-    "timeWeek": 706,
-    "timeMonth": 773,
-    "timeYear": 772
+    "time": 774,
+    "timeDay": 825,
+    "timeWeek": 736,
+    "timeMonth": 769,
+    "timeYear": 774
   },
   {
     "name": "M17-ESP",
     "url": "https://m17spa.xreflector.es/",
     "slug": "m17-esp",
     "status": "down",
-    "uptime": "87.96%",
+    "uptime": "87.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.43%",
-    "uptimeMonth": "87.96%",
-    "uptimeYear": "87.96%",
+    "uptimeWeek": "48.46%",
+    "uptimeMonth": "87.76%",
+    "uptimeYear": "87.76%",
     "time": 819,
     "timeDay": 0,
-    "timeWeek": 650,
-    "timeMonth": 811,
+    "timeWeek": 664,
+    "timeMonth": 799,
     "timeYear": 819
   },
   {
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 718,
-    "timeDay": 537,
-    "timeWeek": 664,
-    "timeMonth": 733,
-    "timeYear": 718
+    "time": 727,
+    "timeDay": 1024,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 727
   },
   {
     "name": "M17-GBR",
@@ -169,11 +169,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 774,
-    "timeDay": 688,
-    "timeWeek": 719,
-    "timeMonth": 779,
-    "timeYear": 774
+    "time": 783,
+    "timeDay": 887,
+    "timeWeek": 777,
+    "timeMonth": 786,
+    "timeYear": 783
   },
   {
     "name": "M17-ITA",
@@ -185,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 776,
-    "timeDay": 619,
-    "timeWeek": 713,
-    "timeMonth": 777,
-    "timeYear": 776
+    "time": 781,
+    "timeDay": 979,
+    "timeWeek": 738,
+    "timeMonth": 778,
+    "timeYear": 781
   },
   {
     "name": "M17-KOR",
@@ -201,11 +201,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1033,
-    "timeDay": 1009,
-    "timeWeek": 1246,
-    "timeMonth": 1052,
-    "timeYear": 1033
+    "time": 1028,
+    "timeDay": 853,
+    "timeWeek": 1218,
+    "timeMonth": 1060,
+    "timeYear": 1028
   },
   {
     "name": "M17-KP4",
@@ -217,11 +217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 182,
-    "timeDay": 73,
-    "timeWeek": 143,
+    "time": 186,
+    "timeDay": 349,
+    "timeWeek": 176,
     "timeMonth": 181,
-    "timeYear": 182
+    "timeYear": 186
   },
   {
     "name": "M17-LAT",
@@ -233,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.54%",
-    "time": 547,
-    "timeDay": 572,
+    "time": 546,
+    "timeDay": 505,
     "timeWeek": 495,
-    "timeMonth": 517,
-    "timeYear": 547
+    "timeMonth": 518,
+    "timeYear": 546
   },
   {
     "name": "M17-M17",
@@ -249,11 +249,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
-    "time": 174,
-    "timeDay": 98,
-    "timeWeek": 122,
-    "timeMonth": 172,
-    "timeYear": 174
+    "time": 179,
+    "timeDay": 356,
+    "timeWeek": 162,
+    "timeMonth": 173,
+    "timeYear": 179
   },
   {
     "name": "M17-NOR",
@@ -265,11 +265,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 661,
-    "timeDay": 603,
-    "timeWeek": 634,
-    "timeMonth": 660,
-    "timeYear": 661
+    "time": 668,
+    "timeDay": 936,
+    "timeWeek": 679,
+    "timeMonth": 665,
+    "timeYear": 668
   },
   {
     "name": "M17-POL",
@@ -281,11 +281,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 805,
-    "timeDay": 674,
-    "timeWeek": 760,
-    "timeMonth": 798,
-    "timeYear": 805
+    "time": 813,
+    "timeDay": 1115,
+    "timeWeek": 816,
+    "timeMonth": 799,
+    "timeYear": 813
   },
   {
     "name": "M17-POR",
@@ -297,11 +297,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 868,
-    "timeDay": 725,
-    "timeWeek": 744,
+    "time": 876,
+    "timeDay": 1144,
+    "timeWeek": 804,
     "timeMonth": 865,
-    "timeYear": 868
+    "timeYear": 876
   },
   {
     "name": "M17-SAL",
@@ -313,11 +313,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 694,
-    "timeDay": 520,
-    "timeWeek": 578,
-    "timeMonth": 693,
-    "timeYear": 694
+    "time": 695,
+    "timeDay": 712,
+    "timeWeek": 600,
+    "timeMonth": 688,
+    "timeYear": 695
   },
   {
     "name": "M17-SPA",
@@ -329,27 +329,27 @@
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 848,
-    "timeDay": 551,
-    "timeWeek": 555,
-    "timeMonth": 858,
-    "timeYear": 848
+    "time": 845,
+    "timeDay": 703,
+    "timeWeek": 574,
+    "timeMonth": 857,
+    "timeYear": 845
   },
   {
     "name": "M17-URG",
     "url": "https://m17-uruguay.ddns.net/m17/",
     "slug": "m17-urg",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
-    "time": 829,
-    "timeDay": 692,
-    "timeWeek": 727,
-    "timeMonth": 817,
-    "timeYear": 829
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "96.54%",
+    "time": 833,
+    "timeDay": 956,
+    "timeWeek": 764,
+    "timeMonth": 809,
+    "timeYear": 833
   },
   {
     "name": "M17-USA",
@@ -361,10 +361,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 224,
-    "timeDay": 140,
-    "timeWeek": 159,
-    "timeMonth": 225,
-    "timeYear": 224
+    "time": 229,
+    "timeDay": 404,
+    "timeWeek": 200,
+    "timeMonth": 226,
+    "timeYear": 229
   }
 ]
