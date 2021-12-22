@@ -4,52 +4,232 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: M17-020
+    https://m17-020.k2ie.net 
+  - name: M17-033
+    https://m17-033.dyndns.org 
+  - name: M17-090
+    https://m17090.radiotechnology.xyz 
   - name: M17-190
-    url: https://m17.argentina-room.dns-cloud.net/
+    https://m17.argentina.net 
+  - name: M17-201
+    https://m17.xlx201.uk
   - name: M17-214
-    url: https://214.m17.es/
+    https://214.m17.es/ 
+  - name: M17-216
+    https://xlx216.km8v.com/m17 
   - name: M17-224
-    url: https://eamaster.xreflector.es/m17/
+    https://eamaster.xreflector.es/m17/ 
+  - name: M17-239
+    https://m17.ac8zd.com 
+  - name: M17-245
+    https://m17245.ddns.net 
+  - name: M17-334
+    https://m17.radiotechnology.xyz 
+  - name: M17-432
+    https://m17.vkradio.com 
+  - name: M17-659
+    https://m17.af0ss.org 
+  - name: M17-672
+    https://multi-reflector.pistar.uk/ 
+  - name: M17-714
+    https://m17.ea3hkb.cat 
+  - name: M17-724
+    https://allfive.net/indexm17.php 
+  - name: M17-727
+    https://m17-727.ddns.net 
+  - name: M17-910
+    https://m17.mywire.org 
+  - name: M17-983
+    https://M17-983.k8jtk.org/ 
+  - name: M17-AND
+    https://m17and.xreflector.es/m17 
   - name: M17-ARG
-    url: https://m17arg.ddns.net/
+    https://m17arg.ddns.net/ 
+  - name: M17-ASL
+    https://m17.51593.it/ 
+  - name: M17-AUS
+    https://m17aus.drgnz.com/ 
   - name: M17-AUT
-    url: https://m17-aut.xreflector.net/
+    https://m17-aut.xreflector.net/ 
   - name: M17-BEL
-    url: https://on0lg.no-ip.org/m17bel/
+    https://on0lg.no-ip.org/m17bel 
+  - name: M17-BRA
+    https://m17bra.net 
+  - name: M17-BRO
+    https://m17-bro.dudetronics.com 
+  - name: M17-CAD
+    http://ontxlink.hopto.org/m17/index.php 
+  - name: M17-CAN
+    https://m17-ve3rig.ddns.net 
+  - name: M17-CAS
+    https://castellar.m17.es/m17/ 
+  - name: M17-CAT
+    https://m17catalonia.ddns.net/ 
+  - name: M17-CCV
+    https://m17.owari.biz/ref-dash 
+  - name: M17-CHI
+    https://m17ch-italia.ddns.net/ 
+  - name: M17-CL1
+    https://m17.radioaficion.pro/ 
+  - name: M17-DDI
+    https://m17.dodropin.net 
   - name: M17-DEU
-    url: https://m17-deu.xreflector.net/
+    https://m17-deu.xreflector.net/ 
+  - name: M17-DEV
+    https://tarxvf.tech/ 
+  - name: M17-DMR
+    https://m17.freestar.network 
+  - name: M17-EA1
+    https://eadistrito1.m17.es/m17/ 
+  - name: M17-EA2
+    https://ea2bkh.m17.es/m17/ 
+  - name: M17-EA4
+    https://ea4rcr.m17.es/m17/ 
   - name: M17-EA7
-    url: https://rcveleta.xreflector.es/
+    https://rcveleta.xreflector.es/ 
+  - name: M17-EA8
+    https://ea8ee.m17.es/m17/ 
   - name: M17-ESP
-    url: https://m17spa.xreflector.es/
+    https://m17spa.xreflector.es/ 
+  - name: M17-FIN
+    https://openvpn.fi/M17/ 
+  - name: M17-FOG
+    https://m17.ham-radio-fog.org/ 
+  - name: M17-FRA
+    https://m17-fra.f5dan.fr 
+  - name: M17-FVG
+    https://m17fvg.hblink.it 
   - name: M17-GAX
-    url: https://ea4gax.es/M17/
+    https://ea4gax.es/M17/ 
   - name: M17-GBR
-    url: https://www.roip.network/m17/
+    https://www.m0iqf.online/m17/ 
+  - name: M17-GSP
+    https://xlxsof.ddns.net:17001 
+  - name: M17-HAM
+    https://m17-ham.ddns.net/ 
+  - name: M17-HNC
+    https://certspain.ddns.net 
+  - name: M17-HRV
+    https://m17.hamvillage.org 
+  - name: M17-HUB
+    https://g7rpg.hubnetwork.uk/m17 
+  - name: M17-IND
+    https://ysf-india.ddns.net/ 
+  - name: M17-IRN
+    https://m17.irn.radio 
+  - name: M17-IS0
+    https://m17.is0.org/ 
   - name: M17-ITA
-    url: https://m17ita.hblink.it/
-  - name: M17-KOR
-    url: https://m17-kor.dvham.com/
+    https://m17ita.hblink.it 
+  - name: M17-ITD
+    https://m17.itdmr.it 
+  - name: M17-JAX
+    https://m17-jax.f5.si:8800/ 
+  - name: M17-JP1
+    https://m17.jh1blt.net/m17/ 
+  - name: M17-JPN
+    https://m17.f5.si/ 
+  - name: M17-JWG
+    https://m17.jwgtechs.com 
   - name: M17-KP4
-    url: https://kp4ca-m17.ddns.net/
+    https://kp4ca-m17.ddns.net/ 
+  - name: M17-KPH
+    https://m17.kapihan.net 
   - name: M17-LAT
-    url: https://latinos.m17.es/
+    https://latinos.m17.es/m17/ 
+  - name: M17-LDV
+    https://ldv.m17.es/m17/ 
+  - name: M17-LSC
+    https://ke4tlc.ddns.net 
   - name: M17-M17
-    url: https://ref.m17.link/
+    https://ref.m17.link 
   - name: M17-NOR
-    url: https://m17.la2k.no/
+    https://m17.la2k.no 
+  - name: M17-NWR
+    https://m17.nwrg.org.uk 
+  - name: M17-NYC
+    https://kd2uqk.ham-radio-op.net 
+  - name: M17-NZD
+    https://m17-nzd.m1m0n.net 
+  - name: M17-NZL
+    https://m17nzl.drgnz.com/ 
+  - name: M17-OFW
+    https://ofwham.duckdns.org/index.php 
+  - name: M17-OH6
+    https://m17oh6.ddns.net/ 
+  - name: M17-OSK
+    https://www.ne.jp/asahi/radio/ham 
+  - name: M17-OWL
+    https://xlx508.hb9gfx.ch/M17-Reflector-Dashboard/index.php 
+  - name: M17-OZD
+    https://m17.oz-dmr.uk/ 
+  - name: M17-PEG
+    https://dmr.projekt-pegasus.net/m17/ 
+  - name: M17-PER
+    https://m17.dmr-peru.pe 
+  - name: M17-PHP
+    https://dx8wmg-m17.ddns.net/ 
+  - name: M17-PLC
+    https://bulgaria.ddns.net:17001 
+  - name: M17-PLG
+    https://xrf245.pennlinkgroup.com/mrefd/ 
+  - name: M17-PNL
+    https://m17.pinoylink.net 
   - name: M17-POL
-    url: https://m17.hblink.network/
+    https://m17.hblink.network/ 
   - name: M17-POR
-    url: https://m17.hamradio.pt/
-  - name: M17-SAL
-    url: https://m17sal.m17.es/
+    https://m17.hamradio.pt/ 
+  - name: M17-QUE
+    https://m17-que.ddns.net 
+  - name: M17-RE1
+    https://m17-fra.f5dan.fr/ 
+  - name: M17-ROM
+    https://tetra-romania.ddns.net/m17/ 
+  - name: M17-RTX
+    https://m17.openrtx.org 
+  - name: M17-SCS
+    https://m17-scarsvoip.com/ 
+  - name: M17-SEL
+    https://selink.lmarc.net/m17dash 
   - name: M17-SPA
-    url: https://hblinkspain.duckdns.org/mrefd/
+    https://hblinkspain.duckdns.org/mrefd/ 
+  - name: M17-SUN
+    https://kc5fm.ddns.net/m17ref/ 
+  - name: M17-SWD
+    https://m17-ref2-swdg.net/ 
+  - name: M17-SWE
+    https://m17.amprnet.se 
+  - name: M17-TAR
+    https://tarxvf.tech 
+  - name: M17-THA
+    https://m17.dprns.com 
+  - name: M17-TKO
+    https://ah-huh.net/m17/ 
+  - name: M17-TNT
+    https://m17.9Z4RG.com 
+  - name: M17-TST
+    https://testref.m17labs.org 
+  - name: M17-UK1
+    https://2e0lxy.uk/m17 
   - name: M17-URG
-    url: https://m17-uruguay.ddns.net/m17/
+    https://m17-uruguay.ddns.net/m17/ 
   - name: M17-USA
-    url: https://m17-usa.openquad.net/
+    https://m17-usa.openquad.net/ 
+  - name: M17-VK7
+    https://vk7hse.duckdns.org/m17 
+  - name: M17-WAL
+    https://m17-swdg.net/ 
+  - name: M17-WWD
+    https://m17wwd.ddns.net/m17 
+  - name: M17-WWR
+    https://sdrichardson.ddns.net 
+  - name: M17-XVF
+    https://m17ref.tarxvf.tech 
+  - name: M17-ZL3
+    https://xlx530.hopto.org/m17 
+  - name: M17-ZO9
+    https://m17zona9.duckdns.org/
 
 assignees:
   - kc1awv
