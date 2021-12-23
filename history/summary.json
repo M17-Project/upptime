@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 22,
+      "2021-12-23": 281,
       "2021-12-22": 299
     }
   },
@@ -62,18 +62,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.argentina.net",
     "slug": "m17-190",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "77.70%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.55%",
+    "uptime": "99.54%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.50%",
     "time": 881,
     "timeDay": 0,
     "timeWeek": 712,
     "timeMonth": 870,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2021-12-23": 22,
+      "2021-12-23": 281,
       "2021-12-22": 299,
       "2021-09-09": 59,
       "2021-08-16": 32,
@@ -123,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/214.m17.es",
     "slug": "m17-214",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.14%",
+    "uptimeYear": "42.09%",
     "time": 1045,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2021-12-23": 22,
+      "2021-12-23": 281,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -378,18 +378,18 @@
     "icon": "https://favicons.githubusercontent.com/eamaster.xreflector.es",
     "slug": "m17-224",
     "status": "down",
-    "uptime": "49.45%",
+    "uptime": "49.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.65%",
+    "uptimeYear": "42.60%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -638,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 299
     }
   },
@@ -648,18 +648,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.radiotechnology.xyz",
     "slug": "m17-334",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 299
     }
   },
@@ -698,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 298
     }
   },
@@ -743,18 +743,20 @@
     "url": "https://allfive.net/indexm17.php",
     "icon": "https://favicons.githubusercontent.com/allfive.net",
     "slug": "m17-724",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 16263,
     "timeDay": 16263,
     "timeWeek": 16263,
     "timeMonth": 16263,
     "timeYear": 16263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-23": 8
+    }
   },
   {
     "name": "M17-727",
@@ -773,7 +775,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 298
     }
   },
@@ -870,18 +872,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.51593.it",
     "slug": "m17-asl",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 298
     }
   },
@@ -902,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 298
     }
   },
@@ -1004,7 +1006,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 298
     }
   },
@@ -1032,18 +1034,18 @@
     "icon": "https://favicons.githubusercontent.com/m17-ve3rig.ddns.net",
     "slug": "m17-can",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 297
     }
   },
@@ -1064,7 +1066,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 297
     }
   },
@@ -1074,18 +1076,18 @@
     "icon": "https://favicons.githubusercontent.com/m17catalonia.ddns.net",
     "slug": "m17-cat",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 297
     }
   },
@@ -1149,18 +1151,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.dodropin.net",
     "slug": "m17-ddi",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 297
     }
   },
@@ -1249,18 +1251,18 @@
     "icon": "https://favicons.githubusercontent.com/ea2bkh.m17.es",
     "slug": "m17-ea-2",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 296
     }
   },
@@ -1288,18 +1290,18 @@
     "icon": "https://favicons.githubusercontent.com/rcveleta.xreflector.es",
     "slug": "m17-ea-7",
     "status": "down",
-    "uptime": "19.90%",
+    "uptime": "19.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.13%",
+    "uptimeYear": "9.08%",
     "time": 1029,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -1640,18 +1642,18 @@
     "icon": "https://favicons.githubusercontent.com/ea8ee.m17.es",
     "slug": "m17-ea-8",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 296
     }
   },
@@ -1661,11 +1663,11 @@
     "icon": "https://favicons.githubusercontent.com/m17spa.xreflector.es",
     "slug": "m17-esp",
     "status": "up",
-    "uptime": "16.92%",
+    "uptime": "16.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.96%",
+    "uptimeYear": "12.01%",
     "time": 729,
     "timeDay": 552,
     "timeWeek": 585,
@@ -2012,7 +2014,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 296
     }
   },
@@ -2051,7 +2053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 295
     }
   },
@@ -2106,10 +2108,10 @@
     "icon": "https://favicons.githubusercontent.com/www.m0iqf.online",
     "slug": "m17-gbr",
     "status": "up",
-    "uptime": "60.43%",
-    "uptimeDay": "22.11%",
-    "uptimeWeek": "3.16%",
-    "uptimeMonth": "2.11%",
+    "uptime": "60.45%",
+    "uptimeDay": "40.03%",
+    "uptimeWeek": "5.72%",
+    "uptimeMonth": "2.70%",
     "uptimeYear": "55.14%",
     "time": 665,
     "timeDay": 459,
@@ -2294,18 +2296,18 @@
     "icon": "https://favicons.githubusercontent.com/xlxsof.ddns.net",
     "slug": "m17-gsp",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 295
     }
   },
@@ -2387,18 +2389,18 @@
     "icon": "https://favicons.githubusercontent.com/ysf-india.ddns.net",
     "slug": "m17-ind",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2408,18 +2410,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.irn.radio",
     "slug": "m17-irn",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2468,18 +2470,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.itdmr.it",
     "slug": "m17-itd",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2500,7 +2502,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2510,18 +2512,18 @@
     "icon": "https://favicons.githubusercontent.com/m17.jh1blt.net",
     "slug": "m17-jp-1",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2542,7 +2544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 294
     }
   },
@@ -2570,18 +2572,18 @@
     "icon": "https://favicons.githubusercontent.com/kp4ca-m17.ddns.net",
     "slug": "m17-kp-4",
     "status": "down",
-    "uptime": "93.47%",
+    "uptime": "93.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.19%",
-    "uptimeYear": "92.59%",
+    "uptimeMonth": "10.60%",
+    "uptimeYear": "92.54%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 99,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -2637,7 +2639,7 @@
     "icon": "https://favicons.githubusercontent.com/latinos.m17.es",
     "slug": "m17-lat",
     "status": "up",
-    "uptime": "62.67%",
+    "uptime": "62.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2817,18 +2819,18 @@
     "icon": "https://favicons.githubusercontent.com/ldv.m17.es",
     "slug": "m17-ldv",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -2921,18 +2923,18 @@
     "icon": "https://favicons.githubusercontent.com/kd2uqk.ham-radio-op.net",
     "slug": "m17-nyc",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -2971,7 +2973,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -2992,7 +2994,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -3020,18 +3022,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ne.jp",
     "slug": "m17-osk",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 1407,
     "timeDay": 1407,
     "timeWeek": 1407,
     "timeMonth": 1407,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -3070,7 +3072,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -3127,7 +3129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 292
     }
   },
@@ -3137,18 +3139,18 @@
     "icon": "https://favicons.githubusercontent.com/bulgaria.ddns.net",
     "slug": "m17-plc",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 291
     }
   },
@@ -3275,7 +3277,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 291
     }
   },
@@ -3409,7 +3411,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 291
     }
   },
@@ -3520,7 +3522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 291
     }
   },
@@ -3541,7 +3543,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 291
     }
   },
@@ -3569,18 +3571,18 @@
     "icon": "https://favicons.githubusercontent.com/m17-uruguay.ddns.net",
     "slug": "m17-urg",
     "status": "down",
-    "uptime": "89.60%",
+    "uptime": "89.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.48%",
+    "uptimeYear": "88.43%",
     "time": 716,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 281,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -3693,18 +3695,18 @@
     "icon": "https://favicons.githubusercontent.com/m17wwd.ddns.net",
     "slug": "m17-wwd",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 282,
       "2021-12-22": 290
     }
   },
@@ -3714,18 +3716,18 @@
     "icon": "https://favicons.githubusercontent.com/sdrichardson.ddns.net",
     "slug": "m17-wwr",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 282,
       "2021-12-22": 290
     }
   },
@@ -3746,7 +3748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 282,
       "2021-12-22": 290
     }
   },
@@ -3767,7 +3769,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 282,
       "2021-12-22": 290
     }
   },
@@ -3777,18 +3779,18 @@
     "icon": "https://favicons.githubusercontent.com/m17zona9.duckdns.org",
     "slug": "m17-zo-9",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 23,
+      "2021-12-23": 282,
       "2021-12-22": 289
     }
   }
