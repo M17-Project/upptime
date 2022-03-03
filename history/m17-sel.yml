@@ -1,7 +1,7 @@
 url: https://selink.lmarc.net/m17dash
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-03-03T07:54:34.360Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2022-03-03T08:05:15.334Z
 startTime: Wed Dec 22 2021 19:09:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
