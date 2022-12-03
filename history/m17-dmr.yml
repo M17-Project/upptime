@@ -1,7 +1,7 @@
 url: https://m17.freestar.network
-status: up
-code: 200
-responseTime: 1877
-lastUpdated: 2022-12-02T23:20:24.410Z
+status: down
+code: 502
+responseTime: 18676
+lastUpdated: 2022-12-03T13:27:57.886Z
 startTime: Wed Dec 22 2021 19:03:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
