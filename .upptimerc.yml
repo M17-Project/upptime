@@ -230,6 +230,7 @@ sites:
     url: https://www.oklahomalink.rcwa.org/m17ref/
   - name: M17-OMO
     url: https://hub.kimberlychase.com/m17
+    __dangerous__disable_verify_peer: true
   - name: M17-OSK
     url: https://www.ne.jp/asahi/radio/ham
   - name: M17-OWL
