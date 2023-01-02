@@ -229,7 +229,7 @@ sites:
   - name: M17-OKL
     url: https://www.oklahomalink.rcwa.org/m17ref/
   - name: M17-OMO
-    url: https://hub.kimberlychase.com/m17/
+    url: https://hub.kimberlychase.com/m17
   - name: M17-OSK
     url: https://www.ne.jp/asahi/radio/ham
   - name: M17-OWL
