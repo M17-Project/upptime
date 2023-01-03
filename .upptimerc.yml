@@ -6,14 +6,10 @@ repo: upptime # Your Github repository name
 sites:
   - name: M17-000
     url: https://m17.cqzone.org
-  - name: M17-001
-    url: https://greece.freedmr.online
   - name: M17-020
     url: https://m17-020.k2ie.net
   - name: M17-033
     url: https://m17-033.dyndns.org
-  - name: M17-090
-    url: https://m17090.radiotechnology.xyz
   - name: M17-100
     url: https://hellaszone.com/m17/
   - name: M17-138
@@ -27,21 +23,13 @@ sites:
   - name: M17-201
     url: https://m17.xlx201.uk
   - name: M17-202
-    url: https://xlxzone.com/m17/
-  - name: M17-214
-    url: https://214.m17.es/
+    url: https://xlxzone.com/m17
   - name: M17-216
     url: https://xlx216.km8v.com/m17
-  - name: M17-224
-    url: https://eamaster.xreflector.es/m17/
   - name: M17-239
     url: https://m17.ac8zd.com
   - name: M17-245
     url: https://m17245.ddns.net
-  - name: M17-316
-    url: https://m17-316.freedmr.online:84
-  - name: M17-334
-    url: https://m17.radiotechnology.xyz
   - name: M17-386
     url: https://m17.foxhole.radio
   - name: M17-432
@@ -78,30 +66,20 @@ sites:
     url: https://m17-999.duckdns.org
   - name: M17-AFG
     url: https://m17.amateurfunk.uni-kl.de
-  - name: M17-AJW
-    url: https://m17.alecwasserman.com/
   - name: M17-AND
     url: https://m17and.xreflector.es/m17
   - name: M17-ARC
     url: https://m17.ddns.net/m17/index.php
-  - name: M17-ARG
-    url: https://m17arg.ddns.net/
   - name: M17-ASL
     url: https://51593.it/m17
-  - name: M17-AUS
-    url: https://m17.vk4nu.au
   - name: M17-AUT
     url: https://m17-aut.xreflector.net/
   - name: M17-BEL
     url: https://freedmr.be/m17bel
   - name: M17-BRA
     url: https://m17bra.net
-  - name: M17-BRO
-    url: https://m17-bro.dudetronics.com
   - name: M17-CAD
     url: http://ontxlink.hopto.org/m17/index.php
-  - name: M17-CAN
-    url: https://m17-ve3rig.ddns.net
   - name: M17-CAS
     url: https://castellar.m17.es/m17/
   - name: M17-CAT
@@ -118,8 +96,6 @@ sites:
     url: HTTP://m17.radioamateur.tk
   - name: M17-D22
     url: https://dc7jzb.de/M17Dash
-  - name: M17-DDI
-    url: https://m17.dodropin.net
   - name: M17-DEU
     url: https://m17-deu.xreflector.net/
   - name: M17-DEV
@@ -130,12 +106,6 @@ sites:
     url: https://m17.freestar.network
   - name: M17-EA1
     url: https://eadistrito1.m17.es/m17/
-  - name: M17-EA2
-    url: https://ea2bkh.m17.es/m17/
-  - name: M17-EA4
-    url: https://ea4rcr.m17.es/m17/
-  - name: M17-EA7
-    url: https://rcveleta.xreflector.es/
   - name: M17-EA8
     url: https://ea8ee.m17.es/m17/
   - name: M17-ECR
@@ -158,16 +128,10 @@ sites:
     url: https://m17fvg.hblink.it
   - name: M17-GAX
     url: https://ea4gax.es/M17/
-  - name: M17-GR1
-    url: https://greece.freedmr.online
-  - name: M17-GRN
-    url: https://greece-frn.ddns.net:445
   - name: M17-GSP
     url: https://xlxsof.ddns.net:17001
   - name: M17-HAM
     url: https://m17-ham.ddns.net/
-  - name: M17-HNC
-    url: https://certspain.ddns.net
   - name: M17-HRV
     url: https://m17.hamvillage.org
   - name: M17-HUB
@@ -184,16 +148,12 @@ sites:
     url: https://m17ita.hblink.it
   - name: M17-ITD
     url: https://m17.itdmr.it
-  - name: M17-JAX
-    url: https://m17-jax.f5.si:8800/
   - name: M17-JP1
     url: https://m17.jh1blt.net/m17/
   - name: M17-JPN
     url: https://m17.f5.si/
   - name: M17-JWG
     url: https://m17.jwgtechs.com
-  - name: M17-KP4
-    url: https://kp4ca-m17.ddns.net/
   - name: M17-KPH
     url: https://m17.kapihan.net
   - name: M17-KR1
@@ -202,16 +162,10 @@ sites:
     url: https://n9krgm17.ddns.net
   - name: M17-LAT
     url: https://latinos.m17.es/m17/
-  - name: M17-LDV
-    url: https://ldv.m17.es/m17/
   - name: M17-LEF
     url: https://xlxlef-dash.gb7hh.co.uk
-  - name: M17-LSC
-    url: https://ke4tlc.ddns.net
   - name: M17-M17
     url: https://ref.m17.link
-  - name: M17-MBK
-    url: https://m17.diteng.com
   - name: M17-MGB
     url: https://mgbrasil.duckdns.org:8023/m17
   - name: M17-NOR
@@ -220,8 +174,6 @@ sites:
     url: https://m17.nwrg.org.uk
   - name: M17-NZD
     url: https://m17-nzd.m1m0n.net
-  - name: M17-NZL
-    url: https://m17nzl.drgnz.com/
   - name: M17-OFW
     url: https://ofwham.duckdns.org/index.php
   - name: M17-OH6
@@ -231,8 +183,6 @@ sites:
   - name: M17-OMO
     url: https://hub.kimberlychase.com/m17
     __dangerous__disable_verify_peer: true
-  - name: M17-OSK
-    url: https://www.ne.jp/asahi/radio/ham
   - name: M17-OWL
     url: https://xlx508.hb9gfx.ch/M17-Reflector-Dashboard/index.php
   - name: M17-OZD
@@ -243,12 +193,8 @@ sites:
     url: https://m17.dmr-peru.net
   - name: M17-PHP
     url: https://dx8wmg-m17.ddns.net/
-  - name: M17-PLC
-    url: https://bulgaria.ddns.net:17001
   - name: M17-PLG
     url: https://xrf245.pennlinkgroup.com/mrefd/
-  - name: M17-PNL
-    url: https://m17.pinoylink.net
   - name: M17-POL
     url: https://m17.hblink.network/
   - name: M17-POR
@@ -261,8 +207,6 @@ sites:
     url: https://tetra-romania.ddns.net/m17/
   - name: M17-RTX
     url: https://m17.openrtx.org
-  - name: M17-SAR
-    url: https://m17sar.hopto.org
   - name: M17-SCS
     url: https://m17-scarsvoip.com/
   - name: M17-SEL
@@ -275,26 +219,14 @@ sites:
     url: https://kc5fm.ddns.net/m17ref/
   - name: M17-SWD
     url: https://m17-ref2-swdg.net/
-  - name: M17-SWE
-    url: https://m17.amprnet.se
   - name: M17-TAR
     url: https://tarxvf.tech
   - name: M17-THA
     url: https://m17.dprns.com
   - name: M17-TKO
     url: https://ah-huh.net/m17/
-  - name: M17-TNT
-    url: https://m17.9Z4RG.com
-  - name: M17-TSE
-    url: https://tse.undo.it/ref-dash
-  - name: M17-TST
-    url: https://testref.m17labs.org
-  - name: M17-TWN
-    url: https://m17twn.ddns.net
   - name: M17-UK1
     url: https://2e0lxy.uk/m17
-  - name: M17-UQK
-    url: https://kd2uqk.ham-radio-op.net
   - name: M17-URG
     url: https://m17uru.c4fm.es/
   - name: M17-URU
