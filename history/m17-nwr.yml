@@ -1,7 +1,7 @@
 url: https://m17.nwrg.org.uk
-status: up
-code: 200
-responseTime: 699
-lastUpdated: 2023-06-09T11:26:57.654Z
+status: down
+code: 502
+responseTime: 3616
+lastUpdated: 2023-06-09T15:16:07.800Z
 startTime: Wed Dec 22 2021 19:07:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
