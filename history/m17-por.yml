@@ -1,7 +1,7 @@
 url: https://m17.hamradio.pt/
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2024-06-01T23:25:36.267Z
+status: down
+code: 502
+responseTime: 583
+lastUpdated: 2024-06-02T11:42:04.287Z
 startTime: 2020-11-03T21:51:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
